@@ -1,0 +1,1 @@
+jupyter notebook --port=9090 --no-browser --NotebookApp.token="vatsalraichaD2L" --ip=0.0.0.0 --notebook-dir=D:\DataScience\AllCode\d2l-en

@@ -1,0 +1,38 @@
+[I 05:21:25.844 NotebookApp] Serving notebooks from local directory: D:\DataScience\AllCode\d2l-en
+[I 05:21:25.849 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 05:21:25.851 NotebookApp] http://VRG:9090/?token=...
+[I 05:21:25.852 NotebookApp]  or http://127.0.0.1:9090/?token=...
+[I 05:21:25.853 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 05:21:35.750 NotebookApp] 302 GET /?token=vatsalraichaD2L (192.168.50.143) 1.000000ms
+[I 05:23:49.163 NotebookApp] 302 GET /?token=vatsalraichaD2L (192.168.50.143) 0.000000ms
+[W 05:23:49.587 NotebookApp] Forbidden
+[W 05:23:49.593 NotebookApp] 403 GET /api/config/tree?_=1685525029415 (192.168.50.143) 7.010000ms referer=http://192.168.50.180:9090/tree
+[W 05:23:49.595 NotebookApp] Forbidden
+[W 05:23:49.596 NotebookApp] 403 GET /api/config/common?_=1685525029416 (192.168.50.143) 2.020000ms referer=http://192.168.50.180:9090/tree
+[W 05:23:49.598 NotebookApp] Forbidden
+[W 05:23:49.599 NotebookApp] 403 GET /api/terminals?_=1685525029417 (192.168.50.143) 1.020000ms referer=http://192.168.50.180:9090/tree
+[W 05:23:49.601 NotebookApp] Forbidden
+[W 05:23:49.602 NotebookApp] 403 GET /api/sessions?_=1685525029418 (192.168.50.143) 2.030000ms referer=http://192.168.50.180:9090/tree
+[W 05:23:49.603 NotebookApp] Forbidden
+[W 05:23:49.603 NotebookApp] 403 GET /api/kernelspecs (192.168.50.143) 3.590000ms referer=http://192.168.50.180:9090/tree
+[W 05:23:49.604 NotebookApp] Forbidden
+[W 05:23:49.605 NotebookApp] 403 GET /api/terminals?_=1685525029419 (192.168.50.143) 4.410000ms referer=http://192.168.50.180:9090/tree
+[I 05:23:55.780 NotebookApp] 302 GET /?token=vatsalraichaD2L (192.168.50.143) 1.040000ms
+[I 05:26:00.353 NotebookApp] Creating new notebook in 
+[I 05:26:00.418 NotebookApp] Writing notebook-signing key to C:\Users\vatsa_k\AppData\Roaming\jupyter\notebook_secret
+[I 05:26:00.714 NotebookApp] Kernel started: 41fc4242-6fcb-4c39-af63-c0f3d494054f, name: python3
+[W 05:26:00.758 NotebookApp] delete /01-jvsc-4c465b26-3627-4f84-9eb2-bb63fcc18ef12a3ebc1b-973d-4f2f-98be-86d984bf79fd.ipynb
+[W 05:26:05.733 NotebookApp] 404 GET /nbextensions/%5C%5Cjupyter-js-widgets%5C%5Cextension.js (192.168.50.143) 1040.240000ms referer=None
+[I 07:32:34.934 NotebookApp] 302 GET /?token=vatsalraichaD2L (192.168.50.180) 1.000000ms
+[W 07:32:35.292 NotebookApp] Forbidden
+[W 07:32:35.298 NotebookApp] 403 GET /api/config/tree?_=1685532755225 (192.168.50.180) 6.990000ms referer=http://192.168.50.180:9090/tree
+[W 07:32:35.300 NotebookApp] Forbidden
+[W 07:32:35.302 NotebookApp] 403 GET /api/config/common?_=1685532755226 (192.168.50.180) 2.000000ms referer=http://192.168.50.180:9090/tree
+[W 07:32:35.304 NotebookApp] Forbidden
+[W 07:32:35.306 NotebookApp] 403 GET /api/terminals?_=1685532755227 (192.168.50.180) 2.000000ms referer=http://192.168.50.180:9090/tree
+[W 07:32:35.313 NotebookApp] Forbidden
+[W 07:32:35.314 NotebookApp] 403 GET /api/kernelspecs (192.168.50.180) 2.000000ms referer=http://192.168.50.180:9090/tree
+[W 07:32:35.318 NotebookApp] Forbidden
+[W 07:32:35.319 NotebookApp] 403 GET /api/sessions?_=1685532755228 (192.168.50.180) 2.000000ms referer=http://192.168.50.180:9090/tree
+[W 07:32:35.324 NotebookApp] Forbidden
+[W 07:32:35.326 NotebookApp] 403 GET /api/terminals?_=1685532755229 (192.168.50.180) 2.000000ms referer=http://192.168.50.180:9090/tree
