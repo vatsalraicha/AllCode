@@ -1,10 +1,15 @@
-[I 15:38:45.975 NotebookApp] Serving notebooks from local directory: D:\DataScience\AllCode\d2l-en
-[I 15:38:45.980 NotebookApp] Jupyter Notebook 6.5.4 is running at:
-[I 15:38:45.980 NotebookApp] http://VRG:9090/?token=...
-[I 15:38:45.981 NotebookApp]  or http://127.0.0.1:9090/?token=...
-[I 15:38:45.981 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[I 15:39:04.923 NotebookApp] 302 GET /?token=vatsalraichaD2L (192.168.50.180) 1.000000ms
-[I 15:40:58.065 NotebookApp] Creating new notebook in 
-[I 15:40:58.314 NotebookApp] Kernel started: 68044d1b-d563-4147-b04f-c7c57f0d4399, name: python3
-[W 15:40:58.355 NotebookApp] delete /01-jvsc-60cb317d-2834-4f14-8f25-7802c4ad04c614833930-20f1-40d3-b229-21678a77b32b.ipynb
-[W 15:41:03.423 NotebookApp] 404 GET /nbextensions/%5C%5Cjupyter-js-widgets%5C%5Cextension.js (192.168.50.143) 1026.250000ms referer=None
+[I 04:53:28.566 NotebookApp] Serving notebooks from local directory: D:\DataScience\AllCode\d2l-en
+[I 04:53:28.567 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 04:53:28.568 NotebookApp] http://VRG:9090/?token=...
+[I 04:53:28.568 NotebookApp]  or http://127.0.0.1:9090/?token=...
+[I 04:53:28.569 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 04:55:15.813 NotebookApp] Creating new notebook in 
+[I 04:55:16.100 NotebookApp] Kernel started: dfd741f1-e672-43f6-9740-ce361fe5cecc, name: python3
+[W 04:55:16.153 NotebookApp] delete /01-jvsc-2929728a-0afc-4c8b-9410-c4b1e11cd45617d8bca4-e864-4d17-ac4f-80fd7860d78a.ipynb
+[W 04:55:20.842 NotebookApp] 404 GET /nbextensions/%5C%5Cjupyter-js-widgets%5C%5Cextension.js (192.168.50.143) 1095.540000ms referer=None
+[I 05:09:43.863 NotebookApp] Starting buffering for dfd741f1-e672-43f6-9740-ce361fe5cecc:85fb7b98-482d-42de-b1ef-5cbe9f9f73af
+[I 05:10:44.398 NotebookApp] 302 GET /?token=vatsalraichaD2L (192.168.50.180) 0.000000ms
+[I 05:10:49.050 NotebookApp] Shutting down on /api/shutdown request.
+[I 05:10:49.053 NotebookApp] Shutting down 1 kernel
+[I 05:10:49.055 NotebookApp] Kernel shutdown: dfd741f1-e672-43f6-9740-ce361fe5cecc
+[I 05:10:49.954 NotebookApp] Shutting down 0 terminals
