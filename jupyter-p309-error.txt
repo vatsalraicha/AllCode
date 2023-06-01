@@ -32,3 +32,11 @@
 [W 05:27:48.130 NotebookApp] 403 GET /api/sessions?_=1685611667953 (192.168.50.143) 3.000000ms referer=http://192.168.50.180:9091/tree
 [W 05:27:48.132 NotebookApp] Forbidden
 [W 05:27:48.133 NotebookApp] 403 GET /api/terminals?_=1685611667954 (192.168.50.143) 2.000000ms referer=http://192.168.50.180:9091/tree
+[I 05:31:15.900 NotebookApp] Creating new notebook in 
+[I 05:31:16.144 NotebookApp] Kernel started: 4323c559-cacc-4e3d-a96e-912f55c4eba9, name: python3
+[W 05:31:16.435 NotebookApp] delete /LinRegPart1-jvsc-1ff78502-544a-4797-a54c-7b87db49511d9a263471-54db-4c6a-a9bf-e2493c6e5cfa.ipynb
+[W 05:31:20.984 NotebookApp] 404 GET /nbextensions/%5C%5Cjupyter-js-widgets%5C%5Cextension.js (192.168.50.143) 1038.590000ms referer=None
+[I 11:34:44.473 NotebookApp] Shutting down on /api/shutdown request.
+[I 11:34:44.481 NotebookApp] Shutting down 1 kernel
+[I 11:34:44.485 NotebookApp] Kernel shutdown: 4323c559-cacc-4e3d-a96e-912f55c4eba9
+[I 11:34:47.122 NotebookApp] Shutting down 0 terminals
