@@ -1,0 +1,34 @@
+[I 05:24:13.347 NotebookApp] Serving notebooks from local directory: D:\DataScience\AllCode
+[I 05:24:13.353 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 05:24:13.353 NotebookApp] http://VRG:9091/?token=...
+[I 05:24:13.354 NotebookApp]  or http://127.0.0.1:9091/?token=...
+[I 05:24:13.355 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 05:24:52.489 NotebookApp] 302 GET /?token=vatsalraichap309 (192.168.50.180) 1.000000ms
+[I 05:26:07.832 NotebookApp] 302 GET /?token=vatsalraichap309 (192.168.50.180) 1.000000ms
+[W 05:26:08.223 NotebookApp] Forbidden
+[W 05:26:08.226 NotebookApp] 403 GET /api/config/tree?_=1685611568162 (192.168.50.180) 4.000000ms referer=http://192.168.50.180:9091/tree
+[W 05:26:08.231 NotebookApp] Forbidden
+[W 05:26:08.232 NotebookApp] 403 GET /api/config/common?_=1685611568163 (192.168.50.180) 2.000000ms referer=http://192.168.50.180:9091/tree
+[W 05:26:08.235 NotebookApp] Forbidden
+[W 05:26:08.236 NotebookApp] 403 GET /api/terminals?_=1685611568164 (192.168.50.180) 2.000000ms referer=http://192.168.50.180:9091/tree
+[W 05:26:08.242 NotebookApp] Forbidden
+[W 05:26:08.243 NotebookApp] 403 GET /api/kernelspecs (192.168.50.180) 2.000000ms referer=http://192.168.50.180:9091/tree
+[W 05:26:08.246 NotebookApp] Forbidden
+[W 05:26:08.247 NotebookApp] 403 GET /api/sessions?_=1685611568165 (192.168.50.180) 2.000000ms referer=http://192.168.50.180:9091/tree
+[W 05:26:08.249 NotebookApp] Forbidden
+[W 05:26:08.251 NotebookApp] 403 GET /api/terminals?_=1685611568166 (192.168.50.180) 2.000000ms referer=http://192.168.50.180:9091/tree
+[I 05:27:21.409 NotebookApp] 302 GET /?token=vatsalraichap309 (192.168.50.180) 1.000000ms
+[I 05:27:39.178 NotebookApp] 302 GET /?token=vatsalraichap309 (192.168.50.143) 2.000000ms
+[I 05:27:47.048 NotebookApp] 302 GET /?token=vatsalraichap309 (192.168.50.143) 0.970000ms
+[W 05:27:48.112 NotebookApp] Forbidden
+[W 05:27:48.113 NotebookApp] 403 GET /api/config/tree?_=1685611667950 (192.168.50.143) 2.000000ms referer=http://192.168.50.180:9091/tree
+[W 05:27:48.116 NotebookApp] Forbidden
+[W 05:27:48.118 NotebookApp] 403 GET /api/config/common?_=1685611667951 (192.168.50.143) 2.000000ms referer=http://192.168.50.180:9091/tree
+[W 05:27:48.121 NotebookApp] Forbidden
+[W 05:27:48.122 NotebookApp] 403 GET /api/terminals?_=1685611667952 (192.168.50.143) 3.000000ms referer=http://192.168.50.180:9091/tree
+[W 05:27:48.124 NotebookApp] Forbidden
+[W 05:27:48.126 NotebookApp] 403 GET /api/kernelspecs (192.168.50.143) 3.000000ms referer=http://192.168.50.180:9091/tree
+[W 05:27:48.129 NotebookApp] Forbidden
+[W 05:27:48.130 NotebookApp] 403 GET /api/sessions?_=1685611667953 (192.168.50.143) 3.000000ms referer=http://192.168.50.180:9091/tree
+[W 05:27:48.132 NotebookApp] Forbidden
+[W 05:27:48.133 NotebookApp] 403 GET /api/terminals?_=1685611667954 (192.168.50.143) 2.000000ms referer=http://192.168.50.180:9091/tree
